@@ -1,4 +1,8 @@
+#5510613259 น.ส.วรินทรเขมชัยวิพุธ
+#5510613325 น.ส.ชมพูนิกข์ ประการแก้ว
+
 # Add a declarative step here for populating the DB with movies.
+
 
 Given /the following movies exist/ do |movies_table|
   movies_table.hashes.each do |movie|

@@ -1,3 +1,6 @@
+#5510613259 น.ส.วรินทรเขมชัยวิพุธ
+#5510613325 น.ส.ชมพูนิกข์ ประการแก
+
 class MoviesController < ApplicationController
 
   def show
